@@ -2,3 +2,4 @@ matplotlib
 numpy
 pygame
 opencv-python
+tensorflow-gpu>=1.0
